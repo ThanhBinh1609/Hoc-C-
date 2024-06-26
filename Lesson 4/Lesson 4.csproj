@@ -6,6 +6,7 @@
     <RootNamespace>Lesson_4</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Lesson_4.Swichcase</StartupObject>
   </PropertyGroup>
 
 </Project>
